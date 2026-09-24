@@ -1,0 +1,7 @@
+{
+  "name": "DIMZONE POS",
+  "description": "Aplikasi POS (Point of Sale) modern dan simpel untuk operasional outlet dimsum DIMZONE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
